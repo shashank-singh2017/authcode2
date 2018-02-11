@@ -14,7 +14,7 @@ var cookieParser = require('cookie-parser');
 
 var client_id = '206df21b1f5f4cd2999c7132952a622c'; // Your client id
 var client_secret = '401b8f0e2e1d4747af3dba61965db0d0'; // Your secret
-var redirect_uri = 'https://desolate-shelf-95963.herokuapp.com/callback'; // Your redirect uri
+var redirect_uri = 'http://desolate-shelf-95963.herokuapp.com/callback'; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
